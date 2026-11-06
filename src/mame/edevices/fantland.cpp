@@ -1803,6 +1803,6 @@ GAME( 19??, borntofia, borntofi, borntofi, borntofi, borntofi_state, empty_init,
 GAME( 1989, borntofiv, borntofi, borntofi, borntofi, borntofi_state, empty_init, ROT0,  "International Games (Vifico license)", "Born To Fight (Vifico license)",  MACHINE_SUPPORTS_SAVE )
 GAME( 19??, fantland,  0,        fantland, fantland, fantland_state, empty_init, ROT0,  "Electronic Devices Italy",             "Fantasy Land (set 1)",            MACHINE_SUPPORTS_SAVE )
 GAME( 19??, fantlanda, fantland, fantland, fantland, fantland_state, empty_init, ROT0,  "Electronic Devices Italy",             "Fantasy Land (set 2)",            MACHINE_SUPPORTS_SAVE )
-GAME( 19??, wheelrun,  0,        wheelrun, wheelrun, fantland_state, empty_init, ROT0,  "International Games",                  "Wheels Runner",                   MACHINE_SUPPORTS_SAVE )
+GAME( 1988, wheelrun,  0,        wheelrun, wheelrun, fantland_state, empty_init, ROT0,  "International Games",                  "Wheels Runner",                   MACHINE_SUPPORTS_SAVE )
 GAME( 1989, galaxygn,  0,        galaxygn, galaxygn, fantland_state, empty_init, ROT90, "Electronic Devices Italy",             "Galaxy Gunners",                  MACHINE_IMPERFECT_SOUND | MACHINE_SUPPORTS_SAVE )
 GAME( 1990, galaxygnh, galaxygn, galaxygn, galaxygn, fantland_state, empty_init, ROT90, "Electronic Devices Italy",             "Galaxy Gunners (1990 year hack)", MACHINE_IMPERFECT_SOUND | MACHINE_SUPPORTS_SAVE )

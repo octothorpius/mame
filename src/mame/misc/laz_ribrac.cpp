@@ -360,4 +360,4 @@ ROM_END
 
 
 GAME( 1993, ribrac, 0, ribrac, ribrac, ribrac_state, empty_init, ROT0, "Lazer-Tron", "Ribbit Racin (Lazer-Tron)", MACHINE_NO_SOUND | MACHINE_NOT_WORKING | MACHINE_MECHANICAL | MACHINE_REQUIRES_ARTWORK )
-GAME( 19??, awetoss, 0, ribrac, awetoss, ribrac_state, empty_init, ROT0, "Lazer-Tron", "Awesome Toss 'Em (Lazer-Tron)", MACHINE_NOT_WORKING | MACHINE_MECHANICAL )
+GAME( 1993, awetoss, 0, ribrac, awetoss, ribrac_state, empty_init, ROT0, "Lazer-Tron", "Awesome Toss 'Em (Lazer-Tron)", MACHINE_NOT_WORKING | MACHINE_MECHANICAL )

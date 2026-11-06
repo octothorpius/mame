@@ -412,4 +412,4 @@ GAMEL( 1979, beaminv,   0,       beaminv, beaminv,  beaminv_state, empty_init, R
 GAMEL( 1979, pacominv,  beaminv, beaminv, pacominv, beaminv_state, empty_init, ROT270, "Pacom Corporation",         "Pacom Invader (set 1)", MACHINE_NO_SOUND | MACHINE_SUPPORTS_SAVE, layout_pacominv ) // bootleg?
 GAMEL( 1979, pacominva, beaminv, beaminv, pacominv, beaminv_state, empty_init, ROT270, "Pacom Corporation",         "Pacom Invader (set 2)", MACHINE_NO_SOUND | MACHINE_SUPPORTS_SAVE, layout_pacominv ) // "
 GAMEL( 19??, ctainv,    beaminv, ctainv,  ctainv,   beaminv_state, empty_init, ROT270, "bootleg (CTA Corporation)", "CTA Invader",           MACHINE_NO_SOUND | MACHINE_SUPPORTS_SAVE, layout_ctainv )
-GAMEL( 19??, worldinv,  beaminv, beaminv, ctainv,   beaminv_state, empty_init, ROT270, "bootleg (World Vending)",   "World Invader",         MACHINE_NO_SOUND | MACHINE_SUPPORTS_SAVE, layout_beaminv )
+GAMEL( 1978, worldinv,  beaminv, beaminv, ctainv,   beaminv_state, empty_init, ROT270, "World Vending",             "World Invader",         MACHINE_NO_SOUND | MACHINE_SUPPORTS_SAVE, layout_beaminv )

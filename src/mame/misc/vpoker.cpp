@@ -2,7 +2,7 @@
 // copyright-holders: Angelo Salese, Roberto Fresca, Grull Osgo
 /**************************************************************************************************************
 
-  Challenger Draw Poker (c) 198? Videotronics.
+  Challenger Draw Poker (c) 1981 Videotronics.
   Driver by Angelo Salese, Roberto Fresca & Grull Osgo.
 
 
@@ -607,5 +607,5 @@ ROM_END
 *****************************************/
 
 //     YEAR  NAME      PARENT  MACHINE   INPUT     STATE         INIT        ROT   COMPANY               FULLNAME                  FLAGS   LAYOUT
-GAMEL( 198?, vpoker,   0,      vpoker,   vpoker,   vpoker_state, empty_init, ROT0, "Videotronics, Inc.", "Challenger Draw Poker",  0,      layout_vpoker  )
+GAMEL( 1981, vpoker,   0,      vpoker,   vpoker,   vpoker_state, empty_init, ROT0, "Videotronics, Inc.", "Challenger Draw Poker",  0,      layout_vpoker  )
 GAMEL( 198?, 5acespkr, 0,      fiveaces, 5acespkr, vpoker_state, empty_init, ROT0, "<unknown>",          "5-Aces Poker",           0,      layout_5acespkr  )
